@@ -1,1 +1,24 @@
 usuarioId,serieID,reaccion,fecha
+1,2,No Me Gusta,2024-05-21
+1,4,Me Encanta,2024-04-01
+1,8,Me Gusta,2017-10-31
+2,1,No Me Gusta,2021-08-20
+2,5,Me Encanta,2023-07-19
+3,2,Me Gusta,2020-12-02
+3,3,No Me Gusta,2024-05-15
+3,7,Me Encanta,2015-10-25
+3,10,Me Encanta,2019-07-31
+4,6,No Me Gusta,2022-08-06
+5,1,Me Gusta,2020-10-09
+5,2,Me Encanta,2019-05-21
+5,3,Me Gusta,2024-08-17
+6,7,Me Gusta,2014-04-18
+6,8,No Me Gusta,2018-09-22
+7,4,Me Encanta,2020-11-09
+7,9,Me Encanta,2021-07-21
+8,10,Me Gusta,2018-08-16
+9,6,Me Encanta,2021-11-07
+9,9,No Me Gusta,2021-02-28
+9,10,Me Encanta,2022-04-13
+10,1,Me Gusta,2020-01-01
+10,7,No Me Gusta,2018-11-30
